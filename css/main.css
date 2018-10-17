@@ -19,6 +19,13 @@ h1 {
 .nav li {
   display: inline-block;
 }
+
+.nav a {
+  color: #713837;
+  display: inline-block
+  padding: 0.5em 0.75em;
+  background-color:
+}
 Typefaces: Bevan (from Google Fonts), sans-serif
 Line height: 1.5
 Colours: #fff, #79756f, #595652, #713837,  #f33, #dbd6cf

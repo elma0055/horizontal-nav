@@ -4,6 +4,7 @@ html {
 }
 header {
   background-color: #79756f;
+  padding: .6em, .5em .75em;
 }
 h1 {
   margin: 0;

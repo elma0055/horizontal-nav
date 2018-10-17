@@ -1,0 +1,25 @@
+html {
+  background-color: #dbd6cf;
+  font: Bevan, sans-serif;
+}
+header {
+  background-color: #79756f;
+}
+h1 {
+  margin: 0;
+  text-align: center;
+}
+.nav{
+  margin: 3;
+  list-stye-type: none;
+  text-align: center;
+}
+
+.nav li {
+  display: inline-block;
+}
+Typefaces: Bevan (from Google Fonts), sans-serif
+Line height: 1.5
+Colours: #fff, #79756f, #595652, #713837,  #f33, #dbd6cf
+Paddings: .6em, .5em .75em
+Margin: .3em

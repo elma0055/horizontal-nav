@@ -3,7 +3,7 @@ body {
 }
 html {
   background-color: #dbd6cf;
-  font: Bevan, sans-serif;
+  font-family: 'Bevan', cursive;
 }
 header {
   background-color: #79756f;

@@ -7,7 +7,7 @@ html {
 }
 header {
   background-color: #79756f;
-  padding: .6em, .5em .75em;
+  padding: .6em .5em .75em;
 }
 h1 {
   margin: 0;
@@ -32,6 +32,8 @@ h1 {
   background-color: #713837;
   border-radius: 4px;
   text-decoration: none;
+  padding: .6em .5em .75em;
+  margin: .3em;
 }
 
 .nav a:hover {

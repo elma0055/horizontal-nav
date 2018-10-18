@@ -27,6 +27,7 @@ h1 {
 
 .nav li {
   display: inline-block;
+  color: #fff;
 }
 
 .nav a {

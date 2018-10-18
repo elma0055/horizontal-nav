@@ -12,7 +12,8 @@ h1 {
 }
 .nav {
   margin: 0;
- list-stye-type: none;
+ list-style-type: none;
+ text-align: center;
 }
 
 .nav li {

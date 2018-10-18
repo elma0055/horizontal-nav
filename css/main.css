@@ -12,9 +12,11 @@ body {
 header {
   background-color: #79756f;
   padding: .6em .5em .75em;
+  border: 10px;
+  }
 }
 h1 {
-  margin: 0;
+  margin: .3em;
   text-align: center;
   color: #fff;
 }
@@ -31,7 +33,6 @@ h1 {
 }
 
 .nav a {
-  font: Georgia, sans-serif;
   color: #fff;
   display: inline-block
   padding: 0.5em 0.75em;
@@ -39,7 +40,6 @@ h1 {
   border-radius: 4px;
   text-decoration: none;
   padding: .6em .5em .75em;
-  margin: .3em;
 }
 
 .nav a:hover {

@@ -39,6 +39,7 @@ h1 {
   border-radius: 4px;
   text-decoration: none;
   padding: .6em .5em .75em;
+  margin-bottom: .5em;
 }
 
 .nav a:hover {
